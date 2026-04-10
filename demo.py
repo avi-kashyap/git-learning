@@ -1,7 +1,6 @@
-def my_function():
+def my_function(a):
     
     a=5
-    b=10
     
     return a 
  
