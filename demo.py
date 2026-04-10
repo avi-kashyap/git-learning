@@ -1,7 +1,4 @@
-def my_function(a):
-    
+def my_func():
     a=5
-    
-    return a 
- 
-my_function()
+    return a
+print(my_func())
