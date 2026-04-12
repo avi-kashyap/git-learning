@@ -19,7 +19,7 @@ git remote add origin https://github.com/avi-kashyap/git-learning
 git remote -v
 git status
  
-git remote set-url origin https://github.com/avi-kashyap/git-learning
+git remote set-url origin https://<past yous presonal access tocken>github.com/avi-kashyap/git-learning
 clear
 git remote -v
 git push origin master
